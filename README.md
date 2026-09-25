@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=74&pause=240&color=FF8C00&center=true&vCenter=true&width=1580&lines=STANDOFF+2+HACK+2026;ESP+•+AIMBOT+•+WALLSHOOT;DOMINATE+EVERY+MATCH" alt="Standoff 2 Hack 2026" />
+<img width="1917" height="1201" alt="image" src="https://github.com/user-attachments/assets/aec535cf-fa53-4623-a3e8-eff94dbdb04b" />
 </div>
 
 <br/>
